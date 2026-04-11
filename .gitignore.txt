@@ -1,0 +1,31 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.venv/
+venv/
+env/
+
+.ipynb_checkpoints/
+
+# model weights
+*.pth
+*.pt
+*.ckpt
+
+# logs / outputs
+*.npy
+*.npz
+*.png
+*.jpg
+*.jpeg
+logs/
+runs/
+checkpoints/
+
+# editor / system
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
